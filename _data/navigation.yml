@@ -1,0 +1,16 @@
+# main links
+main:
+  - title: "About"
+    url: https://threatupdates.github.io/
+  - title: "Media Trends"
+    url: https://threatupdates.github.io/media/
+  - title: "Links"
+    url: /links/ 
+  - title: "Blog"
+    url: https://threatupdates.github.io/blog/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
